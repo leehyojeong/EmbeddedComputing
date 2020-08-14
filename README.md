@@ -1,5 +1,5 @@
 # EmbeddedComputing
-## C 모듈을 사용한 LED_Show 만들기
+## C 모듈을 이용한 LED_Show
 - 
 ## ioctl을 통한 GPIO 제어
 - https://github.com/leehyojeong/EmbeddedComputing/tree/master/ioctl
